@@ -8,7 +8,7 @@
 
 ## รายงานอภิปราย
 
-[Lab 7.pdf]
+[Lab 8-6733380299-1-sec2.pdf](https://github.com/JetnipitKaewsup/lab8-673380299-1-sec2/blob/main/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%20lab%208%20673380299-1.pdf)
 
 ---
 
