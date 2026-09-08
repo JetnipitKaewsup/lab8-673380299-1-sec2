@@ -1,10 +1,10 @@
 package com.example.demo.strategy;
 
-public class StudentDiscountStrategy implements DiscountStrategy {
 
+
+public class MemberDiscountStrategy implements DiscountStrategy {
     @Override
     public double calculate(double price) {
         return price * 0.9;
     }
-
 }
